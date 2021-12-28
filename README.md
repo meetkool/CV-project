@@ -1,2 +1,3 @@
 # CV-project
-CV-project class lab thing idk
+CV-project LAB Assignment 1  https://meetkool.github.io/CV-project/
+
